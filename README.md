@@ -9,6 +9,7 @@ https://github.com/terence223/sql-query-parse/assets/4189291/1ae6f076-5075-4003-
 ## How to run it at local
 1. `docker-compose up --build`
 2. you can see the frontend page at `localhost:5173`
+3. you can see unit tests at console when you run docker
 
 ## How to deploy to AWS ECS
 1. install ecs-cli
